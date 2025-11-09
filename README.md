@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aswin!<br><br>🚀 Web Developer | AI Enthusiast | IoT Innovator<br><br>🔹 About Me<br><br>💡 Working on AI-powered smart portfolios and BabyGuard (IoT-based threat detection)<br><br>🔥 Passionate about Deep Learning, Web Dev, and IoT<br><br>🌱 Always learning new technologies<br><br>📫 Connect with me<br><br>🌐 Portfolio : https://67bb4c35d03ba5000813c0ce--jazzy-yeot-caebff.netlify.app/<br><br>💼 LinkedIn https://www.linkedin.com/in/aswin-r-6188902a9/
+👋 Hi, I'm Aswin!<br><br>🚀 Web Developer | AI Enthusiast | IoT Innovator<br><br>🔹 About Me<br><br>💡 Working on AI-powered smart portfolios and BabyGuard (IoT-based threat detection)<br><br>🔥 Passionate about Deep Learning, Web Dev, and IoT<br><br>🌱 Always learning new technologies<br><br>📫 Connect with me<br><br>🌐 Portfolio : https://aswin26-r.github.io/AswinR_portfolio/<br><br>💼 LinkedIn https://www.linkedin.com/in/aswin-r-6188902a9/
 
 
 ## 🌐 Socials:
