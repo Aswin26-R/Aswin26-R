@@ -77,6 +77,19 @@ Building scalable web applications with Django REST Framework, React, and Postgr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin26-R&layout=compact&theme=tokyonight)
 
 ---
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+</picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
 
 ## 🌐 Connect with Me
 
