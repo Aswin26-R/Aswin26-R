@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FreeFlow CRM",
+    "repo": "Aswin26-R/freeflow-crm",
+    "logo": "freeflow.png",
+    "description": "A client management system for freelancers with Kanban board, invoicing, and reminders",
+    "tags": ["HTML5", "CSS3", "JavaScript", "LocalStorage API"]
+  },
+  {
+    "name": "DocGen",
+    "repo": "Aswin26-R/docgen",
+    "logo": "docgen.png",
+    "description": "AI-powered documentation and learning assistant with summaries, quizzes, and semantic search",
+    "tags": ["Python", "Streamlit", "Gemini API", "FAISS", "PostgreSQL"]
+  }
+]
