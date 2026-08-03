@@ -110,7 +110,7 @@ Building scalable web applications with Django REST Framework, React, and Postgr
 https://www.linkedin.com/in/aswin-r-6188902a9/
 
 🌐 Portfolio:
-https://aswin26-r.github.io/AswinR_portfolio/
+https://aswin-r-portfolio-website.vercel.app/
 
 🐙 GitHub:
 https://github.com/Aswin26-R
